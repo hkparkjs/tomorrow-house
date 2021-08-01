@@ -21,5 +21,12 @@
   "homepage": "https://github.com/hkpark90/tomorrow-house#readme",
   "dependencies": {
     "node-sass": "^6.0.1"
-  }
+  },
+  "scssLint.configDir": ".",
+  "scssLint.languages": [
+    "sass",
+    "scss"
+  ],
+  "scssLint.runOnTextChange": true,
+  "editor.formatOnSave": true
 }
