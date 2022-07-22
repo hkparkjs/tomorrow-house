@@ -88,6 +88,7 @@
 
   @include responsive(T) {
     padding: 0;
+    margin-bottom: 80px;
 
     &-header {
       .info-brand {
