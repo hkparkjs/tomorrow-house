@@ -25,6 +25,10 @@
     .detail {
       margin-bottom: 8px;
       color: $primary;
+
+      .is-answered {
+        color: $blue;
+      }
     }
 
     .misc {
